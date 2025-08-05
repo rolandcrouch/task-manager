@@ -1,0 +1,9 @@
+{
+    "user_file": "user.txt",
+    "task_file": "tasks.txt",
+    "task_overview_file": "task_overview.txt",
+    "user_overview_file": "user_overview.txt",
+    "date_format_input": "%d:%m:%Y",
+    "date_format_display": "%d %b %Y",
+    "admin_username": "admin"
+  }
